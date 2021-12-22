@@ -1,3 +1,3 @@
-GrayMadness is a group with several hobbies including:
-- Game and Software Development
-- Photography
+GrayMadness is a group with interest in Game and Software Development and/or Photography.
+
+
