@@ -1,3 +1,5 @@
 title: GrayMadness Website
 description: Photos, Games and more...
 theme: jekyll-theme-midnight
+github:
+  is_project_page: false
